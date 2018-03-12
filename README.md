@@ -1,1 +1,3 @@
-# Zero-Two-My-wife
+# Zero-Two-my-wife
+
+print("MikuMyWife")
